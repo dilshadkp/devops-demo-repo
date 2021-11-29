@@ -1,3 +1,6 @@
 installing apache webserver
-copying httpd.conf.tmpc
+copying httpd.conf.tmpl
+creating virtualhost from vhost.conf.tmpl
+creating documentroot
+creating sample file
 restarting/enabling apache webserver
