@@ -3,4 +3,5 @@ copying httpd.conf.tmpl
 creating virtualhost from vhost.conf.tmpl
 creating documentroot
 creating sample file
+installing php pakages
 restarting/enabling apache webserver
