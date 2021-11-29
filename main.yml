@@ -6,4 +6,6 @@ creating sample file
 installing php pakages
 restarting/enabling apache webserver
 mysql-server installed
+created blog user
+set password for blog user
 mysql-server restarted
