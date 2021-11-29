@@ -5,3 +5,5 @@ creating documentroot
 creating sample file
 installing php pakages
 restarting/enabling apache webserver
+mysql-server installed
+mysql-server restarted

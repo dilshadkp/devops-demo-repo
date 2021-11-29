@@ -2,3 +2,5 @@ httpd_port: 8080
 httpd_user: apache
 httpd_group: apache
 hhtpd_dmail: www.example.com
+mysql_user: root
+mysql_password: root@123
