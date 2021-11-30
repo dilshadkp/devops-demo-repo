@@ -8,4 +8,5 @@ restarting/enabling apache webserver
 mysql-server installed
 created blog user
 set password for blog user
-mysql-server restarted
+mysql-server restarteddownloading wordpress archive
+extracting wordpress archive
